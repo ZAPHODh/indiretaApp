@@ -19,11 +19,16 @@
     "postinstall": "npm run prepare"
   },
   "dependencies": {
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@mui/icons-material": "^5.11.9",
+    "@mui/material": "^5.11.10",
     "@styled-icons/material-outlined": "latest",
     "next": "latest",
     "react": "latest",
     "react-dom": "latest",
     "react-markdown": "latest",
+    "react-simple-keyboard": "^3.5.27",
     "storybook-addon-next": "latest",
     "styled-components": "latest"
   },
